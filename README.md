@@ -156,6 +156,9 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/ab002ae6-84de-43f0-afcb-317c14d0b1e7" />
+
+
 ---
 
 
