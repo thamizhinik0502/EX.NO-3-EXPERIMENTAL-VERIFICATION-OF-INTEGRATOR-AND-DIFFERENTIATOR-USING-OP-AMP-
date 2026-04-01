@@ -61,16 +61,13 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="1600" height="683" alt="image" src="https://github.com/user-attachments/assets/b29bb277-5842-43f3-8596-535e2840def9" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="1291" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c588743-3aef-4342-b2eb-8392601ff15b" />
 
 ---
 **DATE:**  
@@ -149,13 +146,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/b6ddc73e-dd4b-4a2f-82f0-1595720ec387" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1247" height="1600" alt="image" src="https://github.com/user-attachments/assets/ac1482d2-e4f4-406a-b302-72581112bf87" />
 
 ---
 
